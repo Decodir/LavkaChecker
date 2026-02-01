@@ -1,14 +1,10 @@
 {
-	"lastver": "1",
-	"nlink": "https://github.com/Decodir/LavkaChecker/raw/main/*.luac",
-	"three": [
-		["Name_Nick", 150],
-		["Name_Nick", 150]
-		],
-	"one": [
-		["Name_Nicke", 150],
-		["Name_Nick", 150],
-		["Name_Nick", 330]
-		],
-	"two": []
+  "lastver": "1",
+  "nlink": "https://github.com/Decodir/LavkaChecker/raw/main/*.luac",
+  "one": [
+    ["Name_Nick", "1A2B3C4D", 150],
+    ["Another_Nick", "9F8E7D6C", 330]
+  ],
+  "two": [],
+  "three": []
 }

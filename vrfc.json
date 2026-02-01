@@ -1,10 +1,10 @@
-[
-  {
-    "nickname": "Player1",
-    "hwid": "ABCD1234"
-  },
-  {
-    "nickname": "Player2", 
-    "hwid": "EFGH5678"
-  }
-]
+{
+	"lastver": "1",
+	"nlink": "https://github.com/Decodir/LavkaChecker/raw/main/1.luac",
+	"one": [
+		["Alex_Wild", 150],
+		["Name_Nick", 330]
+		],
+	"two": [],
+  "three": []
+}

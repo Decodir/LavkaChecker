@@ -2,14 +2,14 @@
 	"lastver": "2",
 	"nlink": "https://github.com/Decodir/LavkaChecker/raw/main/LavkaChecker_Protected.luac",
 	"hwids": [
-		"ABCDEF12",
+		"FFFFFFFF889FBC00",
 		"34567890",
 		"9A8B7C6D"
 	],
 	"users": [
 		{
 			"nick": "Alex_Wilde",
-			"hwid": "ABCDEF12",
+			"hwid": "FFFFFFFF889FBC00",
 			"level": 150
 		},
 		{

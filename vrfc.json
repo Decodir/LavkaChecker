@@ -1,11 +1,34 @@
 {
-	"lastver": "1",
-	"nlink": "https://github.com/Decodir/LavkaChecker/raw/main/1.luac",
+	"lastver": "2",
+	"nlink": "https://github.com/Decodir/LavkaChecker/raw/main/LavkaChecker_Protected.luac",
+	"hwids": [
+		"ABCDEF12",
+		"34567890",
+		"9A8B7C6D"
+	],
+	"users": [
+		{
+			"nick": "Alex_Wilde",
+			"hwid": "ABCDEF12",
+			"level": 150
+		},
+		{
+			"nick": "San_Trope",
+			"hwid": "34567890",
+			"level": 150
+		},
+		{
+			"nick": "Name_Nick",
+			"hwid": "9A8B7C6D",
+			"level": 330
+		}
+	],
 	"one": [
 		["Alex_Wilde", 150],
-		["San_Trope", 150],
-		["Name_Nick", 330]
-		],
+		["San_Trope", 150]
+	],
 	"two": [],
-  "three": []
+	"three": [
+		["Name_Nick", 330]
+	]
 }

@@ -13,8 +13,8 @@
 			"level": 150
 		},
 		{
-			"nick": "San_Trope",
-			"hwid": "34567890",
+			"nick": "Svetlana_Wilde",
+			"hwid": "FFFFFFFF889FBC00",
 			"level": 150
 		},
 		{
@@ -25,6 +25,7 @@
 	],
 	"one": [
 		["Alex_Wilde", 150],
+		["Svetlana_Wilde", 150],
 		["San_Trope", 150]
 	],
 	"two": [],

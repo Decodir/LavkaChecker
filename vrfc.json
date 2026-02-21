@@ -3,7 +3,7 @@
 	"nlink": "https://github.com/Decodir/LavkaChecker/raw/main/LavkaChecker_Protected.luac",
 	"hwids": [
 		"FFFFFFFF889FBC00",
-		"34567890",
+		"C2E7821",
 		"9A8B7C6D"
 	],
 	"users": [
@@ -14,7 +14,7 @@
 		},
 		{
 			"nick": "Svetlana_Wilde",
-			"hwid": "FFFFFFFF889FBC00",
+			"hwid": "C2E7821",
 			"level": 150
 		},
 		{
